@@ -1,0 +1,14 @@
+# Core agentic framework
+langgraph
+
+# LLM / NLP
+transformers
+torch
+
+# Web UI
+streamlit
+
+# Utilities
+numpy
+regex
+
