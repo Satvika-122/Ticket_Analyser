@@ -256,7 +256,7 @@ This project demonstrates practical software engineering and AI concepts includi
 AI & Data Science Engineer
 
 - GitHub: https://github.com/Satvika-122
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/satvika-dwaram-6a14aa287/
 
 ---
 
